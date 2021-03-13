@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmaanSR
 - 👀 I’m interested in Web Development and Cyber Security!
-- 🌱 I’m currently learning HTML, CSS, annd JavaScript!
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and Networking!
 - 📫 Reach me at linkedin.com/in/emaansingh
 
 <!---
